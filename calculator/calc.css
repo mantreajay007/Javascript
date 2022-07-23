@@ -1,0 +1,82 @@
+.container {
+
+    border: 1px solid;
+
+margin: 10px;
+    border-radius: 20px;
+
+    position: absolute;
+
+    top: 10%;
+
+    left: 40%;
+
+    width: 350px;
+
+    height: 300px;
+background-color: gold;
+}
+
+.keys {
+    padding: 10px;
+
+    margin:auto;
+     
+}
+
+.button {
+
+    height: 40px;
+    width: 50px;
+    padding: 5px;
+
+
+    border-radius: 3px;
+
+    border: 1px solid #c4c4c4;
+
+    background-color: gray;
+
+    font-size: 2rem;
+
+   
+
+   
+}
+
+
+
+
+.clear {
+
+ color: red;
+
+    width: 80px;
+
+    height: 30px;  
+
+}
+
+
+.screen{
+
+    /* background-color:gray; */
+
+
+    color: black;
+
+    font-size: medium;
+
+    width: 50%;
+
+    height: 10%;
+
+
+    padding: 10px; 
+
+
+    margin: 10px;
+
+
+}
+
